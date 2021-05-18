@@ -1,0 +1,25 @@
+{
+  "name": "hugo-boss",
+  "version": "1.0.0",
+  "description": "Centralized documentation builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atistler/hugo-boss.git"
+  },
+  "author": "adam.tistler@rackspace.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atistler/hugo-boss/issues"
+  },
+  "homepage": "https://github.com/atistler/hugo-boss#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "hugo-extended": "^0.83.1",
+    "postcss": "^8.2.15",
+    "postcss-cli": "^8.3.1"
+  }
+}
